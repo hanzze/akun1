@@ -1,5 +1,5 @@
 proxies:
-- name: Pt Cloud Teknologi Nusantara 🇮🇩1
+  - name: Pt Cloud Teknologi Nusantara 🇮🇩1
     server: quiz.vidio.com
     port: 80
     type: vless
