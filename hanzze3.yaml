@@ -8,7 +8,7 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: effata.us.kg
+    servername: 
     network: ws
     ws-opts:
       path: /vmess
