@@ -14,18 +14,3 @@ proxies:
       headers:
         Host: nusa1.msrp.web.id
     udp: true
-==========================================    
-  - name: Pt Cloud Teknologi Nusantara 🇮🇩1
-    server: quiz.vidio.com
-    port: 80
-    type: vless
-    uuid: f20f0e31-d85d-4fb1-958e-d71bb9fe27a9
-    tls: false
-    servername: support.zoom.us.wildcard.tobostore.me
-    skip-cert-verify: true
-    network: ws
-    ws-opts:
-      path: "%2Fvless%3D103.133.223.51%3D2096"
-      headers:
-        Host: support.zoom.us.wildcard.tobostore.me
-    udp: true
