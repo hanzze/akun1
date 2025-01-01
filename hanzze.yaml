@@ -1,0 +1,16 @@
+proxies:
+  - name: nusa1.msrp.web.id http WS direct vmess
+    server: 104.22.5.240
+    port: 80
+    type: vmess
+    uuid: 2a227045-d7fe-4039-b0f1-a2ac9aaae510
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: /5Wi2tmIwFcHQx9qUQE
+      headers:
+        Host: nusa1.msrp.web.id
+    udp: true
