@@ -1,6 +1,6 @@
 proxies:
   - name: hanzze2
-    server: 104.22.5.240
+    server: 104.22.5.240.effata.us.kg
     port: 443
     type: vmess
     uuid: d3252f8f-eb68-47a4-bd8c-72f8c528d5c1
