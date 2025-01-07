@@ -1,0 +1,17 @@
+proxies:
+  - name: hanzeAM
+    server: 104.22.5.240
+    port: 80
+    type: vmess
+    uuid: fae40cc7-75b5-42dc-af55-6df227db2b54
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: aw.srpcom.online
+    network: ws
+    ws-opts:
+      path: /vmessws
+      headers:
+        Host: aw.srpcom.online
+    udp: true
