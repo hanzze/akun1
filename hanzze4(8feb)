@@ -1,17 +1,17 @@
 proxies:
-  - name: hanzeAM
-    server: 104.22.5.240
+  - name: kyy
+    server: vidio.srpcom.online
     port: 80
     type: vmess
-    uuid: fae40cc7-75b5-42dc-af55-6df227db2b54
+    uuid: c2601b1e-be40-4186-9c83-8a2bf86d8c04
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: aw.srpcom.online
+    servername: vidio.srpcom.online.at.srpcom.online
     network: ws
     ws-opts:
       path: /vmessws
       headers:
-        Host: aw.srpcom.online
+        Host: vidio.srpcom.online.at.srpcom.online
     udp: true
